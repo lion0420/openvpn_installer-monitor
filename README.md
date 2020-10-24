@@ -3,7 +3,7 @@
 
 ## ubuntu 
 ```shell
-wget https://raw.githubusercontent.com/ufukguler/openvpn_basit_kurulum/master/kurulum.sh && bash kurulum.sh
+wget https://raw.githubusercontent.com/lion0420/openvpn_installer-monitor/master/ovpn.sh && bash ovpn.sh
 ```
 
 
